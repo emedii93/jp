@@ -1,0 +1,27 @@
+mkdir * - tworzenie katalogu
+
+touch * - tworzenie pliku 
+
+man * - pomoc do danego programu
+
+find - wyszukiwanie
+
+grep - wyszukiwanie wewnatrz pliku
+
+cat - wyswitlanie pliku i modyfikacja
+
+nano- edytor tekstowy 
+
+emacs - edytor tekstowy zaawansowany 
+
+uniq - usuwanie duplikatow
+
+sort - sortowanie
+
+more - wyswietlanie 
+
+ron - system zlecen czasowych 
+
+>> - dopisanie do pliku 
+
+> - nadpisanie pliku 
