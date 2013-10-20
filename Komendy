@@ -28,3 +28,13 @@ ron - system zlecen czasowych
 
 | - strumien 
 
+mc - komander
+
+whoami - kim jestem 
+
+cp - kopia 
+
+finger *- dane użytkownika o nazwie *
+
+cd * - przejście do ścieżki *
+
